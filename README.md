@@ -17,7 +17,7 @@ Then, enter the players playing each seat.<br>
 Example:
 ```
 > cargo run predict
-    Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.00s
+    Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.14s
      Running `target/debug/root predict`
 Enter map: AUTUMN
 Enter factions: CATS EYRIE ALLIANCE VAGABOND
